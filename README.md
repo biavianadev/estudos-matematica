@@ -1,4 +1,4 @@
-# Repositório de Estudos em Python
+# Repositório de Estudos de Matemática utilizando Python
 
 ## Sobre o repositório
 
