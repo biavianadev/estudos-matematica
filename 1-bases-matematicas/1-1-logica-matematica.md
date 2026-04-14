@@ -154,7 +154,7 @@ Exemplo clássico:
 
 ---
 
-## Resumo Intuitivo
+## Resumo
 
 * **Proposição** → frase com valor lógico (V/F)
 * **Conectivos** → combinam proposições
