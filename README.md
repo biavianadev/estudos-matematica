@@ -23,7 +23,7 @@ Aqui organizo meus estudos de matemática de forma estruturada, utilizando Pytho
 * Cada pasta de conteúdo contém:
 
   * `tema-resumo.md`: resumo teórico e anotações
-  * `exercicios.py`: prática dos conceitos estudados
+  * `exercicios/`: prática dos conceitos estudados
 
 ---
 
@@ -34,7 +34,7 @@ Clique na seta para expandir os tópicos
 <details>
 <summary><b>1. Bases Matemáticas</b></summary>
   
-  * 1.1 Lógica Matemática: elementos de linguagem e lógica matemática
+  * 1.1 [Lógica Matemática: elementos de linguagem e lógica matemática](./1-bases-matematicas/1-1-logica-matematica.md)
     
   * 1.2 Conjuntos: elementos da teoria ingênua de conjuntos, conjuntos numéricos, indução e números reais
     
