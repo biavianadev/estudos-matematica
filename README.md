@@ -34,13 +34,13 @@ Clique na seta para expandir os tópicos
 <details>
 <summary><b>1. Bases Matemáticas</b></summary>
   
-  * 1.1 [Lógica Matemática: elementos de linguagem e lógica matemática](./1-bases-matematicas/1-1-logica-matematica.md)
+  * 1.1 [Lógica Matemática](./1-bases-matematicas/1-1-logica-matematica.md)
     
-  * 1.2 Conjuntos: elementos da teoria ingênua de conjuntos, conjuntos numéricos, indução e números reais
+  * 1.2 [Conjuntos](./1-bases-matematicas/1-2-conjuntos.md)
     
   * 1.3 Equações e Inequações
     
-  * 1.4 Funções: definição e propriedades, funções reais e gráficos de funções
+  * 1.4 Funções
     
   * 1.5 Limite e Continuidade
 
